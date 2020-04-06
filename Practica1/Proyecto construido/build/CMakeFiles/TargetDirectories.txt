@@ -1,0 +1,4 @@
+D:/UCSP 2020/Compu Grafica/OpenGLRoot/Practica1/build/CMakeFiles/Practica1.dir
+D:/UCSP 2020/Compu Grafica/OpenGLRoot/Practica1/build/CMakeFiles/GLAD.dir
+D:/UCSP 2020/Compu Grafica/OpenGLRoot/Practica1/build/CMakeFiles/ALL_BUILD.dir
+D:/UCSP 2020/Compu Grafica/OpenGLRoot/Practica1/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^D:\UCSP 2020\COMPU GRAFICA\OPENGLROOT\PRACTICA1\BUILD\CMAKEFILES\4FFE84B7BD8E58A6F3D666968C43333F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/UCSP 2020/Compu Grafica/OpenGLRoot/Practica1" "-BD:/UCSP 2020/Compu Grafica/OpenGLRoot/Practica1/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/UCSP 2020/Compu Grafica/OpenGLRoot/Practica1/build/Practica1.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

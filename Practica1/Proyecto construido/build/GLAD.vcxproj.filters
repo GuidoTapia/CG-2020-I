@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\UCSP 2020\Compu Grafica\OpenGLRoot\Practica1\thirdparty\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\UCSP 2020\Compu Grafica\OpenGLRoot\Practica1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5CA4CC0A-5E0E-3575-9A7D-542DB7F11857}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

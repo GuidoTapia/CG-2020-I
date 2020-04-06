@@ -1,0 +1,147 @@
+The system is: Windows - 10.0.18362 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine versi¢n 16.5.0+d4cbfca49 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci¢n iniciada a las 06/04/2020 1:30:54.
+Proyecto "D:\UCSP 2020\Compu Grafica\OpenGLRoot\Practica1\build\CMakeFiles\3.17.0\CompilerIdC\CompilerIdC.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "Debug\".
+  Creando directorio "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Se crear  "Debug\CompilerIdC.tlog\unsuccessfulbuild" porque se especific¢ "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\bin\HostX64\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> D:\UCSP 2020\Compu Grafica\OpenGLRoot\Practica1\build\CMakeFiles\3.17.0\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\bin\Hostx64\x64\cl.exe
+FinalizeBuildStatus:
+  Se eliminar  el archivo "Debug\CompilerIdC.tlog\unsuccessfulbuild".
+  Aplicando tarea Touch a "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Compilaci¢n del proyecto terminada "D:\UCSP 2020\Compu Grafica\OpenGLRoot\Practica1\build\CMakeFiles\3.17.0\CompilerIdC\CompilerIdC.vcxproj" (destinos predeterminados).
+
+Compilaci¢n correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:01.29
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "D:/UCSP 2020/Compu Grafica/OpenGLRoot/Practica1/build/CMakeFiles/3.17.0/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine versi¢n 16.5.0+d4cbfca49 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Compilaci¢n iniciada a las 06/04/2020 1:30:56.
+Proyecto "D:\UCSP 2020\Compu Grafica\OpenGLRoot\Practica1\build\CMakeFiles\3.17.0\CompilerIdCXX\CompilerIdCXX.vcxproj" en nodo 1 (destinos predeterminados).
+PrepareForBuild:
+  Creando directorio "Debug\".
+  Creando directorio "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Se crear  "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" porque se especific¢ "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\bin\HostX64\x64\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\bin\HostX64\x64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> D:\UCSP 2020\Compu Grafica\OpenGLRoot\Practica1\build\CMakeFiles\3.17.0\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\bin\Hostx64\x64\cl.exe
+FinalizeBuildStatus:
+  Se eliminar  el archivo "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
+  Aplicando tarea Touch a "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Compilaci¢n del proyecto terminada "D:\UCSP 2020\Compu Grafica\OpenGLRoot\Practica1\build\CMakeFiles\3.17.0\CompilerIdCXX\CompilerIdCXX.vcxproj" (destinos predeterminados).
+
+Compilaci¢n correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:01.22
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "D:/UCSP 2020/Compu Grafica/OpenGLRoot/Practica1/build/CMakeFiles/3.17.0/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/UCSP 2020/Compu Grafica/OpenGLRoot/Practica1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_f56e2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine versi¢n 16.5.0+d4cbfca49 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+  Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.25.28612 para x64
+  testCCompiler.c
+  (C) Microsoft Corporation. Todos los derechos reservados.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f56e2.dir\Debug\\" /Fd"cmTC_f56e2.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "D:\UCSP 2020\Compu Grafica\OpenGLRoot\Practica1\build\CMakeFiles\CMakeTmp\testCCompiler.c"
+  cmTC_f56e2.vcxproj -> D:\UCSP 2020\Compu Grafica\OpenGLRoot\Practica1\build\CMakeFiles\CMakeTmp\Debug\cmTC_f56e2.exe
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/UCSP 2020/Compu Grafica/OpenGLRoot/Practica1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_69149.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine versi¢n 16.5.0+d4cbfca49 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+  Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.25.28612 para x64
+  CMakeCCompilerABI.c
+  (C) Microsoft Corporation. Todos los derechos reservados.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_69149.dir\Debug\\" /Fd"cmTC_69149.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.17\Modules\CMakeCCompilerABI.c"
+  cmTC_69149.vcxproj -> D:\UCSP 2020\Compu Grafica\OpenGLRoot\Practica1\build\CMakeFiles\CMakeTmp\Debug\cmTC_69149.exe
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/UCSP 2020/Compu Grafica/OpenGLRoot/Practica1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_59974.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine versi¢n 16.5.0+d4cbfca49 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+  Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.25.28612 para x64
+  testCXXCompiler.cxx
+  (C) Microsoft Corporation. Todos los derechos reservados.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_59974.dir\Debug\\" /Fd"cmTC_59974.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "D:\UCSP 2020\Compu Grafica\OpenGLRoot\Practica1\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  cmTC_59974.vcxproj -> D:\UCSP 2020\Compu Grafica\OpenGLRoot\Practica1\build\CMakeFiles\CMakeTmp\Debug\cmTC_59974.exe
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/UCSP 2020/Compu Grafica/OpenGLRoot/Practica1/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Current/Bin/MSBuild.exe cmTC_d0409.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine versi¢n 16.5.0+d4cbfca49 para .NET Framework
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+  Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.25.28612 para x64
+  CMakeCXXCompilerABI.cpp
+  (C) Microsoft Corporation. Todos los derechos reservados.
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_d0409.dir\Debug\\" /Fd"cmTC_d0409.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.17\Modules\CMakeCXXCompilerABI.cpp"
+  cmTC_d0409.vcxproj -> D:\UCSP 2020\Compu Grafica\OpenGLRoot\Practica1\build\CMakeFiles\CMakeTmp\Debug\cmTC_d0409.exe
+
+
+

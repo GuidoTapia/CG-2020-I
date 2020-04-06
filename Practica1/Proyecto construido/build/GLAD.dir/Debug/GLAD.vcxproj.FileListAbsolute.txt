@@ -1,0 +1,2 @@
+D:\UCSP 2020\Compu Grafica\OpenGLRoot\Practica1\build\Debug\GLAD.pdb
+D:\UCSP 2020\Compu Grafica\OpenGLRoot\Practica1\build\GLAD.dir\Debug\GLAD.pdb
